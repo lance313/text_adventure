@@ -1,7 +1,7 @@
 puts "Welcome to an Average Adventure! \r\nWhat's your name?"
 	name =  gets.chomp.capitalize
 puts "\r\nWow! #{name}! That IS average!"
-
+/* Wouldn't it be hilarious if they couldn't name themselves Water Margins? -Fat */
 puts "\r\nLet's begin. \r\nYou wake up in the middle of a field.\r\nYou see mountains to the North and a forest to the South.\r\nPick a direction."
 
 
